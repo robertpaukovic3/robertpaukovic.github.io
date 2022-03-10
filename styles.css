@@ -1,0 +1,74 @@
+body {  
+    display: block;  
+    overflow-x: hidden;
+}    
+
+nav {
+    background-color:  white;
+} 
+
+.navbar-brand img{
+    max-height: 50px;
+} 
+
+.navbar-brand{ 
+    font-size:24px;  
+    font-weight: 500;  
+    color:  blue;
+}  
+
+nav ul li a{   
+    color:blue;   
+    font-size:22px; 
+    margin: auto 15px;  
+
+}   
+
+nav ul li a:hover {   
+   color: #0080ff;
+}   
+
+section {   
+    padding-top: 50px;  
+    padding-bottom: 50px;
+}   
+
+section h1{      
+    font-weight:900;  
+    color:#1aff1a;   
+    text-align:left;     
+    margin-bottom:20px;
+}   
+
+button {   
+   max-width:150px;   
+   border-radius: 150px !important;  
+
+}    
+
+section.p {   
+    font-weight:300;   
+    font-size:20px;    
+    font-family:Verdana;
+}   
+
+#hero .coll{   
+    justify-content: center;  
+    flex-direction: column;   
+    display: flex;
+}   
+
+#hero .img-col{    
+    justify-content: flex-end;   
+    margin-top: 100px;
+}   
+
+.card {  
+    position:horizontal;
+}     
+
+.Pismeni ispit {  
+    font-family: Verdana;   
+  
+}
+
